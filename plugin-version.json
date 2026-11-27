@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
-  "sha256": "c97239fc83ae6d0bd0f1495907abe4ff756affdbca9bab144325599b516e766a",
-  "message": "Nowa numeracja i aktualizacja wtyczki z GitHub"
+  "version": "1.2",
+  "sha256": "d6b47e86f10fb6fb37805f20599e62eef57f16dc96315ec933960fab4930e22b",
+  "message": "Poprawka wyswietlania opisu zmian"
 }
